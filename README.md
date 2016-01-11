@@ -9,3 +9,5 @@ A clear output with timeline that shows which thread is performing which action,
 
 ## Referred book - Art of Multiprocessor Programming by Nir Shavit and Maurice Herlihy
 http://booksite.elsevier.com/9780123705914/?ISBN=9780123705914
+
+-Done as a part of Semester Holidays project 'Concurrent DataStructures Implementation' in Dec-2015 under Prof. Govindarajulu R.
